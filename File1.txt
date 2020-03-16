@@ -14,3 +14,8 @@ Commit 5. Some new changes after different pull from GITHUB.
 Commit 6. Merging after conflicted pull
 
 Master Commit 7 alternative. To test how you can resolve conflicts
+Master Commit 7. Master Commit 7. To test how you can branch and push branches.
+
+Master Comit 8 for merging orgin and local master branch.
+
+
