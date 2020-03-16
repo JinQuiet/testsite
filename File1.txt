@@ -1,5 +1,6 @@
 Initial Commit for MASTER branch On my local PC.
 
+<<<<<<< HEAD
 Commit 2. Some changes in the local file.
 
 
@@ -16,6 +17,6 @@ Commit 6. Merging after conflicted pull
 Master Commit 7 alternative. To test how you can resolve conflicts
 Master Commit 7. Master Commit 7. To test how you can branch and push branches.
 
-Master Comit 8 for merging orgin and local master branch.
+Master Comit 8 for merging orgin and local master branch
 
-
+Here is the experiment for pulling testing branch from origin
