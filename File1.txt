@@ -7,3 +7,5 @@ Commit 3. From the TESTING branch.
 Commit 4. From the TESTING branch.
 
 Checked out testing branch to see the content of it without merging.
+
+Commit 101. MAIN. TESTING. preparing ot merge into master
