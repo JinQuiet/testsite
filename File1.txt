@@ -26,3 +26,14 @@ Commit 5. Some new changes after different pull from GITHUB.
 
 Commit 9. Alternative Main. Getting into conflict area - how to resolve merge conflicts.
 +++Merging conflict resolved again
+
+Merge test Main Start
+
+Common lines 0000
+
+Common lines 0001
+Common lines 0002
+Common lines 0003
+Common lines 0004
+
+Merge test Main End
