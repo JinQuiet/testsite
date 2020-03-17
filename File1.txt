@@ -3,3 +3,5 @@ Initial Commit for MASTER branch On my local PC.
 Commit 2. Some changes in the local file.
 
 Commit 5. Some new changes after different pull from GITHUB.
+
+Commit 9. Alternative Main. Getting into conflict area - how to resolve merge conflicts.
