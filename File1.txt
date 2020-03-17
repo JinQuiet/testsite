@@ -31,9 +31,10 @@ Merge test Main Start
 
 Common lines 0000
 
-Common lines 0001
-Common lines 0002
-Common lines 0003
-Common lines 0004
+Common lines 0011
+Common lines 0012
+New line XXXX
+Common lines 0023
+Common lines 0024
 
 Merge test Main End
