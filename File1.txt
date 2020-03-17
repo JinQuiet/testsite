@@ -37,6 +37,10 @@ New line XXXX
 Common lines 0023
 Common lines 0024
 
+<<<<<<< HEAD
 Conflict ALTERNATIVE
+=======
+Conflict MAIN
+>>>>>>> origin
 
 Merge test Main End
