@@ -20,3 +20,5 @@ Master Commit 7. Master Commit 7. To test how you can branch and push branches.
 Master Comit 8 for merging orgin and local master branch
 
 Here is the experiment for pulling testing branch from origin
+
+Commit 9. Master Main. Getting into conflict area - howe to resolve merge conflicts.
