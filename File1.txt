@@ -1,8 +1,6 @@
 Initial Commit for MASTER branch On my local PC.
 
-<<<<<<< HEAD
 Commit 2. Some changes in the local file.
-
 
 Commit 3. From MASTER branch.
 
@@ -22,3 +20,9 @@ Master Comit 8 for merging orgin and local master branch
 Here is the experiment for pulling testing branch from origin
 
 Commit 9. Master Main. Getting into conflict area - howe to resolve merge conflicts.
+
++++Merging conflict resolved
+Commit 5. Some new changes after different pull from GITHUB.
+
+Commit 9. Alternative Main. Getting into conflict area - how to resolve merge conflicts.
++++Merging conflict resolved again
